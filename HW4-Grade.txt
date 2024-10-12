@@ -1,1 +1,0 @@
-18/20 - will discuss in class. I was not able to print out your notebook. In the future, please also save a pdf of it. I don't have Jupyter installed on every computer I use, but all can read PDFs.

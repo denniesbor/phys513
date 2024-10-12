@@ -1,3 +1,0 @@
-- This repository contains the coursework and assignments for the Applied Electrodynamics Theory course.
-- It covers various topics related to electrodynamics and provides practical assignments to apply the learned concepts.
-- The code in this repository is meant to demonstrate the implementation of the theory discussed in the course.

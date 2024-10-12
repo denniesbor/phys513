@@ -1,5 +1,0 @@
-14.5/15 - great work
-
-1. 5/5 (suggest avoiding bold for scalars; also, I meant to compute delta E not an E ratio, but your solution is fine.)
-2. 5/5
-3. 4.5/5 (Your exact solution is not correct)
